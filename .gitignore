@@ -1,0 +1,20 @@
+
+# Keys and secrets
+.streamlit/secrets.toml
+.env
+
+# Virtuale environmentPython
+.venv/
+venv/
+
+# Cache e temporary file
+__pycache__/
+*.pyc
+.DS_Store
+
+# Database e uploaded file
+*.db
+*.sqlite3
+*.sqlite
+uploads/
+lab_normalization_cache.json
